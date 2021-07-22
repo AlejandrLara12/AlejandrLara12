@@ -2,7 +2,7 @@
 
 ## I'm an Engineer, Developer, and Folklore Dancer
 
-- 🌱 Always learning everything something new
+- 🌱 Always learning something new
 - 🥅 2021 Goals: Contribute more to Open Source projects & Write better code
 - ⚡ Fun fact: I love to play ice hockey
 
